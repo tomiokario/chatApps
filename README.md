@@ -17,3 +17,8 @@ streamlit app:
   ```
   python -m streamlit run home.py
   ```
+
+  requrements.txtの作成
+  ```
+  pip freeze > requirements.txt
+  ```
