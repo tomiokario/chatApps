@@ -12,7 +12,7 @@ Streamlitを使用したシンプルなChatアプリケーション
 ##### 2. SearchChat
 - DuckDuckGo APIで検索するAIエージェントと対話します．
 
-##### 3. ProgressChatWithSearch
+##### 3. SearchChatWithProgress
 - DuckDuckGo APIで検索するAIエージェントと対話します．
 - エージェントの思考過程を表示します．
             
@@ -23,6 +23,6 @@ Streamlitを使用したシンプルなChatアプリケーション
 Chat & SearchChat
 - https://github.com/streamlit/llm-examples/blob/main/Chatbot.py
 
-ProgressChatWithSearch
+SearchChatWithProgress
 - https://github.com/KitaharaMugiro/genai-poc/blob/main/search/pages/duckduckgo.py
 """)
