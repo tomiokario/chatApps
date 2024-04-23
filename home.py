@@ -16,7 +16,9 @@ Streamlitを使用したシンプルなChatアプリケーション
 - DuckDuckGo APIで検索するAIエージェントと対話します．
 - エージェントの思考過程を表示します．
             
-            
+##### 4. webExplore
+- Webページを検索し，その内容を要約して表示します．
+- Google API Key, Google CSE ID, OpenAI API Keyを使用します．
             
 #### 参考
  
@@ -25,4 +27,7 @@ Chat & SearchChat
 
 SearchChatWithProgress
 - https://github.com/KitaharaMugiro/genai-poc/blob/main/search/pages/duckduckgo.py
+
+webExplore
+- https://github.com/langchain-ai/web-explorer
 """)
