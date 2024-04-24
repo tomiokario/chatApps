@@ -1,11 +1,6 @@
 # ChatWebUi
 Streamlitを使ったシンプルなChatアプリケーションをまとめた学習用リポジトリ
 
-
-参考: 
-- https://github.com/streamlit/llm-examples/blob/main/Chatbot.py
-- https://github.com/KitaharaMugiro/genai-poc/blob/main/search/pages/duckduckgo.py
-
 ## 実行方法
 ブラウザから使う（Streamlit Community Cloud）
 - https://chatapps-tomiokario.streamlit.app/
@@ -24,3 +19,10 @@ requrements.txtの作成
 ```
 pip freeze > requirements.txt
 ```
+
+---
+
+参考: 
+- https://github.com/langchain-ai/web-explorer
+- https://github.com/streamlit/llm-examples/blob/main/Chatbot.py
+- https://github.com/KitaharaMugiro/genai-poc/blob/main/search/pages/duckduckgo.py
