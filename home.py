@@ -20,6 +20,9 @@ Streamlitを使用したシンプルなChatアプリケーション
 - Webページを検索し，その内容を要約して表示します．
 - Google API Key, Google CSE ID, OpenAI API Keyを使用します．
             
+##### 5. TextFileQnA
+- アップロードしたテキストファイルに関する質問を受け付けて回答します．
+
 #### 参考
  
 Chat & SearchChat
@@ -30,4 +33,7 @@ SearchChatWithProgress
 
 webExplore
 - https://github.com/langchain-ai/web-explorer
+
+TextFileQnA
+- https://github.com/dataprofessor/langchain-ask-the-doc/blob/master/streamlit_app.py
 """)
